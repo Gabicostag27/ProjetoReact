@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 .venv
 *.pyc
+=======
+.venv
+*.pyc
+>>>>>>> b3efda7dae66bf8a8fc652871610ffc2534603df
